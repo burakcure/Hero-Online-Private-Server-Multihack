@@ -13,7 +13,7 @@ HOW TO USE
 ------------------------------------------------------------------------
 
 1- Download source file to compile and run or if you dont want to deal with that I will also share a compiled version for you to use.
-
+( You can download compiled version from here https://github.com/burakcure/Hero-Online-Private-Server-Multihack/blob/main/Compiled-Version.zip )
 2- Run OSPE.exe
 
 3- Select OSPE_x86.dll from options->configure menu.
@@ -34,7 +34,7 @@ Nasıl Kullanılır
 ------------------------------------------------------------------------
 
 1- Kaynağı indirip derleyin veya derlenmiş halini indirin.
-
+( Derlenmiş halini burada bulabilirsiniz https://github.com/burakcure/Hero-Online-Private-Server-Multihack/blob/main/Compiled-Version.zip )
 2- OSPE.exe'yi çalıştırın
 
 3- Options->Configure menüsünden OSPE_x86.dll'yi seçin
@@ -50,4 +50,8 @@ Nasıl Kullanılır
 
 
 
+------------------------------------------------------------------------
 
+Made by Kyrios#4674 ( Serry for the mess in the code and feel free to use this as a resource to enhance your hacks )
+
+OSPE : https://github.com/elecyb/OSPE
